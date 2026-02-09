@@ -6,3 +6,4 @@ file ini dibuat dan hanya berisi teks percobaan saya dan file pertama saya di re
 - Teks ini akan tetap berada disini
 - Teks ini akan tetap berada disini
 - Teks ini akan tetap berada disini
+- Teks ini hanya ada sementara disini (Akan dihapus)
