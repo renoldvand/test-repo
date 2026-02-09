@@ -1,9 +1,1 @@
-Halo, perkenalkan saya Renoldvand.
-Saya adalah programmer pemula :p
-
-file ini dibuat dan hanya berisi teks percobaan saya dan file pertama saya di repo ini.
-
-- Teks ini akan tetap berada disini
-- Teks ini akan tetap berada disini
-- Teks ini akan tetap berada disini
-- Teks ini adalah teks baru. "Halo saya adalah teks baru :p"
+Tidak ada apapun disini :p
